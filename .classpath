@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="img"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/kimeshan/Downloads/db-derby-10.12.1.1-lib/lib/derby.jar"/>
+	<classpathentry kind="lib" path="/Users/kimeshan/Downloads/db-derby-10.12.1.1-lib/lib/derbytools.jar"/>
+	<classpathentry kind="lib" path="/Users/kimeshan/Downloads/db-derby-10.12.1.1-lib/lib/derbyoptionaltools.jar"/>
+	<classpathentry kind="lib" path="jcalendar-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

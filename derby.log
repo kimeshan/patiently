@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Dec 07 23:53:20 GMT 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0151-7edd-2191-000006c97950 
+on database directory /Users/kimeshan/Dropbox/Java/workspace/PatientSystem/PMS with class loader sun.misc.Launcher$AppClassLoader@659e0bfd 
+Loaded from file:/Users/kimeshan/Downloads/db-derby-10.12.1.1-lib/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-b17
+user.dir=/Users/kimeshan/Dropbox/Java/workspace/PatientSystem
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
