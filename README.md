@@ -1,7 +1,8 @@
 # patiently
-Patiently is a Java Patient Management System (CRUD) desktop application. 
 
-#Java docs
+ ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+ ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
-See doc folder or click [here](http://kimeshan.com/patiently_docs).
+🏥 Patiently is a Java Patient Management System (CRUD) desktop application. 
+
 
